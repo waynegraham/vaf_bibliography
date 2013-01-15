@@ -1,0 +1,5 @@
+rvm use 1.9.3@vaf_bibliography --create
+
+git pull
+
+bundle install --without production
